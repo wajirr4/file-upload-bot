@@ -26,7 +26,7 @@ bot.command("start", async (ctx) => {
       "\nSyntax: /upload <path>" +
       "\nExamples: /upload /home/user/Pictures/" +
       "\nOr /upload /home/user/Pictures/image.jpg" +
-      "\n\nRepository: github.com/dcdunkan/file-upload-bot",
+      "\n\nBy @BotMakerBD",
     { disable_web_page_preview: true },
   );
 });
